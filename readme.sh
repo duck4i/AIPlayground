@@ -42,6 +42,7 @@ line "Check out the [ModelRegistry](models/utils/modelRegistry.py) for more info
 
 #   UI
 header "Using node based UI interface"
+line "![demo](demo.png)"
 pair "python3 main.py UI --help"
 
 #   MAIN
