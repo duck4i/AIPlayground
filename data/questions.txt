@@ -1,0 +1,5 @@
+Remember the latitude and longitude of Paris and London, then calculate the distance between two cities knowing that information, get a result and output it
+Give me a python script to save a string into a file. Then give me a c# one.
+What is the IMDB score of The Dark Knight 
+Who is the owner of Apple
+Show list with 3 items
